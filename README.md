@@ -55,6 +55,8 @@ Overall, the dashboard turns messy, disconnected sales data into a decision-read
 
 This project was built using Python (pandas) for data cleaning, validation, and transformation, and Power BI for data modeling, DAX-based calculations, and building the interactive dashboard.
 
+
+
 Dashboard Images : 
 1] Sale Performance Report :
 https://github.com/Izmomin14/sales-analytics-dashboard/blob/main/Sales%20Dashbaord.png
