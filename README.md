@@ -49,7 +49,8 @@ Smarter inventory and marketing focus by clearly identifying which products and 
 Reduced concentration risk, since sales are shown to be well-diversified across channels, countries, and employees rather than dependent on any single one.
 Targeted customer retention strategy, by surfacing high-value customers who could be prioritized for loyalty programs.
 Better-informed promotional planning, since visible quarterly volatility highlights where discounting or seasonal strategy needs closer review.
-Overall, the dashboard turns messy, disconnected sales data into a decision-ready view that supports both day-to-day sales tracking and longer-term strategic planning.
+Overall, the dashboard turns messy, disconnected sales data into a decision-ready view that supports both day-to-day sales tracking and longer-term strategic planning..
+
 7. Tools Used
 
 This project was built using Python (pandas) for data cleaning, validation, and transformation, and Power BI for data modeling, DAX-based calculations, and building the interactive dashboard.
